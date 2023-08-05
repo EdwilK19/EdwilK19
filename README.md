@@ -1,5 +1,5 @@
 # 💫 About Me:
-hello my name is Edwil, I am a systems engineering student very innovative and passionate about IoT and cloud infrastructure.
+Hello my name is Edwil, I am a systems engineering student very innovative and passionate about IoT and cloud infrastructure.
 
 
 ## 🌐 Socials:
